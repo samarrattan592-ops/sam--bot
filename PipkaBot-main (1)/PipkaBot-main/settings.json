@@ -2,7 +2,7 @@
   "name": "AFK BOT",
   "bot-account": {
     "username": "PipkaBot",
-    "password": "",
+    "password": "bothu",
     "type": "offline"
   },
   "server": {
