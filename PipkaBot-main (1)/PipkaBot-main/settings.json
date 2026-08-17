@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "armor.playserver.pro",
-    "port": 28091,
+    "ip": "prodesh.play.hosting",
+    "port":  55754,
     "version": "",
     "try-creative": false
   },
